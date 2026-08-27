@@ -98,7 +98,7 @@ This tool is provided strictly for:
 Unauthorized deployment on production systems constitutes unlawful access.
 
 ## Author
-coded by @z0d131482700x 
+coded by Xer0TLabs x Persephrak Decentralized Syndicate 
 Persephrak Red/blue Team Security Research  
 For educational and authorized testing purposes only
 
